@@ -1,0 +1,23 @@
+{
+  "name": "filesize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonFreeCodeCamp/filesize.git"
+  },
+  "author": "Jona",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JonFreeCodeCamp/filesize/issues"
+  },
+  "homepage": "https://github.com/JonFreeCodeCamp/filesize#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "multer": "^1.2.0"
+  }
+}
